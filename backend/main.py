@@ -32,7 +32,7 @@ app.add_middleware(
 
 @app.get("/")
 async def root():
-    return {"message": "설비 관리 AI 챗봇 API가 실행 중입니다."}
+    return {"message": "설비 관리 AI 챗봇 API가 실행 중"}
 
 # 경로 및 로그 설정
 BASE_DIR = Path(__file__).resolve().parent
