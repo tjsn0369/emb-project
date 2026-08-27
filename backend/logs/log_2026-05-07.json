@@ -1,0 +1,863 @@
+[
+  {
+    "time": "21:32:51",
+    "vibration": 10.99,
+    "temperature": 39.65,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:52",
+    "vibration": 9.8,
+    "temperature": 41.34,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:53",
+    "vibration": 8.9,
+    "temperature": 42.0,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:54",
+    "vibration": 9.37,
+    "temperature": 40.13,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:55",
+    "vibration": 9.8,
+    "temperature": 39.9,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:56",
+    "vibration": 11.45,
+    "temperature": 39.64,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:57",
+    "vibration": 9.07,
+    "temperature": 40.91,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:32:58",
+    "vibration": 28.74,
+    "temperature": 57.73,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:32:59",
+    "vibration": 12.48,
+    "temperature": 38.17,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:00",
+    "vibration": 10.85,
+    "temperature": 40.74,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:01",
+    "vibration": 10.17,
+    "temperature": 37.73,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:02",
+    "vibration": 10.78,
+    "temperature": 40.34,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:03",
+    "vibration": 10.9,
+    "temperature": 39.28,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:04",
+    "vibration": 11.25,
+    "temperature": 38.25,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:05",
+    "vibration": 9.25,
+    "temperature": 39.87,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:06",
+    "vibration": 9.44,
+    "temperature": 40.94,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:07",
+    "vibration": 28.16,
+    "temperature": 57.32,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:08",
+    "vibration": 8.44,
+    "temperature": 41.6,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:09",
+    "vibration": 12.24,
+    "temperature": 38.43,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:10",
+    "vibration": 9.86,
+    "temperature": 40.11,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:11",
+    "vibration": 24.58,
+    "temperature": 57.17,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:12",
+    "vibration": 11.35,
+    "temperature": 38.78,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:13",
+    "vibration": 8.07,
+    "temperature": 40.16,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:14",
+    "vibration": 11.14,
+    "temperature": 38.59,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:15",
+    "vibration": 10.09,
+    "temperature": 39.47,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:16",
+    "vibration": 28.35,
+    "temperature": 57.88,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:17",
+    "vibration": 11.14,
+    "temperature": 39.95,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:18",
+    "vibration": 10.6,
+    "temperature": 39.84,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:20",
+    "vibration": 10.14,
+    "temperature": 41.26,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:20",
+    "vibration": 8.26,
+    "temperature": 41.25,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:21",
+    "vibration": 10.33,
+    "temperature": 41.45,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:22",
+    "vibration": 8.68,
+    "temperature": 42.58,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:23",
+    "vibration": 10.74,
+    "temperature": 40.74,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:24",
+    "vibration": 8.58,
+    "temperature": 39.83,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:25",
+    "vibration": 8.25,
+    "temperature": 37.76,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:26",
+    "vibration": 10.29,
+    "temperature": 42.0,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:27",
+    "vibration": 11.19,
+    "temperature": 39.62,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:28",
+    "vibration": 8.93,
+    "temperature": 39.17,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:29",
+    "vibration": 9.92,
+    "temperature": 38.18,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:30",
+    "vibration": 10.88,
+    "temperature": 40.28,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:31",
+    "vibration": 8.49,
+    "temperature": 39.07,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:32",
+    "vibration": 9.39,
+    "temperature": 41.84,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:33",
+    "vibration": 9.41,
+    "temperature": 39.67,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:34",
+    "vibration": 9.19,
+    "temperature": 39.06,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:35",
+    "vibration": 10.48,
+    "temperature": 39.73,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:38",
+    "vibration": 9.65,
+    "temperature": 39.24,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:38",
+    "vibration": 9.4,
+    "temperature": 40.25,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:39",
+    "vibration": 9.79,
+    "temperature": 39.54,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:40",
+    "vibration": 10.25,
+    "temperature": 39.16,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:41",
+    "vibration": 9.14,
+    "temperature": 38.95,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:42",
+    "vibration": 9.06,
+    "temperature": 40.17,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:43",
+    "vibration": 11.58,
+    "temperature": 40.29,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:44",
+    "vibration": 10.45,
+    "temperature": 40.18,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:45",
+    "vibration": 10.51,
+    "temperature": 40.84,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:46",
+    "vibration": 9.35,
+    "temperature": 39.75,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:47",
+    "vibration": 9.12,
+    "temperature": 38.3,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:48",
+    "vibration": 10.2,
+    "temperature": 39.75,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:49",
+    "vibration": 26.02,
+    "temperature": 58.55,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:53",
+    "vibration": 11.23,
+    "temperature": 41.9,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:53",
+    "vibration": 10.8,
+    "temperature": 39.81,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:53",
+    "vibration": 28.86,
+    "temperature": 65.07,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:53",
+    "vibration": 24.88,
+    "temperature": 62.78,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:33:54",
+    "vibration": 11.36,
+    "temperature": 41.69,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:55",
+    "vibration": 10.94,
+    "temperature": 39.31,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:56",
+    "vibration": 11.02,
+    "temperature": 39.95,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:57",
+    "vibration": 9.71,
+    "temperature": 39.52,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:58",
+    "vibration": 10.75,
+    "temperature": 42.63,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:33:59",
+    "vibration": 9.88,
+    "temperature": 39.28,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:00",
+    "vibration": 9.65,
+    "temperature": 39.18,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:01",
+    "vibration": 9.47,
+    "temperature": 40.08,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:02",
+    "vibration": 9.16,
+    "temperature": 40.91,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:03",
+    "vibration": 9.84,
+    "temperature": 40.82,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:04",
+    "vibration": 9.03,
+    "temperature": 40.08,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:05",
+    "vibration": 10.95,
+    "temperature": 40.29,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:06",
+    "vibration": 9.77,
+    "temperature": 40.06,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:07",
+    "vibration": 8.66,
+    "temperature": 40.08,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:08",
+    "vibration": 10.28,
+    "temperature": 40.28,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:09",
+    "vibration": 9.83,
+    "temperature": 41.06,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:10",
+    "vibration": 9.27,
+    "temperature": 41.13,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:11",
+    "vibration": 24.51,
+    "temperature": 62.09,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:34:12",
+    "vibration": 8.3,
+    "temperature": 40.39,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:13",
+    "vibration": 7.97,
+    "temperature": 39.5,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:14",
+    "vibration": 10.81,
+    "temperature": 41.19,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:15",
+    "vibration": 24.65,
+    "temperature": 58.94,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:34:16",
+    "vibration": 8.27,
+    "temperature": 42.4,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:17",
+    "vibration": 10.78,
+    "temperature": 39.31,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:18",
+    "vibration": 28.36,
+    "temperature": 62.51,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:34:19",
+    "vibration": 10.17,
+    "temperature": 39.92,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:21",
+    "vibration": 9.62,
+    "temperature": 39.76,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:21",
+    "vibration": 9.29,
+    "temperature": 41.15,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:22",
+    "vibration": 10.13,
+    "temperature": 40.26,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:23",
+    "vibration": 10.62,
+    "temperature": 41.94,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:24",
+    "vibration": 22.4,
+    "temperature": 59.98,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:34:25",
+    "vibration": 10.23,
+    "temperature": 39.86,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:26",
+    "vibration": 9.05,
+    "temperature": 40.88,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:27",
+    "vibration": 10.37,
+    "temperature": 39.72,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:28",
+    "vibration": 9.78,
+    "temperature": 39.35,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:29",
+    "vibration": 10.25,
+    "temperature": 39.71,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:30",
+    "vibration": 10.03,
+    "temperature": 39.88,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:31",
+    "vibration": 10.04,
+    "temperature": 38.25,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:32",
+    "vibration": 11.65,
+    "temperature": 39.31,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:33",
+    "vibration": 10.24,
+    "temperature": 40.62,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:34",
+    "vibration": 9.5,
+    "temperature": 40.41,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:35",
+    "vibration": 23.75,
+    "temperature": 61.85,
+    "probability": 98.0,
+    "status": "🚨 이상"
+  },
+  {
+    "time": "21:34:36",
+    "vibration": 10.61,
+    "temperature": 40.91,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:37",
+    "vibration": 8.49,
+    "temperature": 39.85,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:38",
+    "vibration": 11.69,
+    "temperature": 41.37,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:39",
+    "vibration": 9.62,
+    "temperature": 39.8,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:40",
+    "vibration": 11.11,
+    "temperature": 41.11,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:41",
+    "vibration": 8.48,
+    "temperature": 38.86,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:42",
+    "vibration": 12.92,
+    "temperature": 39.76,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:43",
+    "vibration": 8.94,
+    "temperature": 41.32,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:44",
+    "vibration": 7.39,
+    "temperature": 38.68,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:45",
+    "vibration": 10.26,
+    "temperature": 42.04,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:46",
+    "vibration": 10.46,
+    "temperature": 40.68,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:47",
+    "vibration": 10.07,
+    "temperature": 40.19,
+    "probability": 10.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:48",
+    "vibration": 8.29,
+    "temperature": 43.58,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:49",
+    "vibration": 11.57,
+    "temperature": 40.77,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:50",
+    "vibration": 8.51,
+    "temperature": 38.92,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:51",
+    "vibration": 8.03,
+    "temperature": 41.44,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:52",
+    "vibration": 8.94,
+    "temperature": 39.57,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:53",
+    "vibration": 9.32,
+    "temperature": 38.85,
+    "probability": 2.0,
+    "status": "✅ 정상"
+  },
+  {
+    "time": "21:34:54",
+    "vibration": 10.71,
+    "temperature": 39.46,
+    "probability": 4.0,
+    "status": "✅ 정상"
+  }
+]
