@@ -136,7 +136,7 @@ python main.py
 
 - http://localhost:8001
 
-필요한 경우 `.env` 파일을 추가해 주세요.
+필요한 경우 `.env` 파일을 추가
 
 ```env
 OPENAI_API_KEY=your_api_key_here
@@ -189,7 +189,7 @@ streamlit run sl_project.py
 ---
 
 ## 향후 확장 아이템
-
+- 챗봇이 질문에 맞는 대답 
 - 실제 PLC/센서 클라이언트 연동
 - MySQL 또는 PostgreSQL 저장소 연결
 - 장비별 추세 분석 및 예측 모델 고도화
